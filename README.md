@@ -4,4 +4,10 @@ to bruteforce the admin panel of a site.
 First enter the domain followed by the
 https / http protocol digit.
 
+To run this program, you must have golang installed
+and also a library for colours.
+It is install by the team
+go get github.com/fatih/color
+
+
 donate bitcoin: 18LKUKWAUBAFKzLBdFFkt687vh8rMPhL1u
