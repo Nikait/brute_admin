@@ -9,5 +9,10 @@ and also a library for colours.
 It is install by the team
 go get github.com/fatih/color
 
+You can also run the script 
+much faster with the command:
+./brute_admin
+(this is for Linux)
+
 
 donate bitcoin: 18LKUKWAUBAFKzLBdFFkt687vh8rMPhL1u
