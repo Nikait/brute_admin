@@ -13,9 +13,9 @@ var admins = []string{"admin/login.html", "admin/login.htm", "admin/controlpanel
 var (
     domain   string
     protocol string
-    Green    = color.New(color.FgGreen).Add(color.Underline)
-    Red      = color.New(color.FgRed).Add(color.Underline)
-    Magenta  = color.New(color.FgMagenta).Add(color.Underline)
+    Green    = color.New(color.FgGreen).Add(color.Bold)
+    Red      = color.New(color.FgRed).Add(color.Bold)
+    Magenta  = color.New(color.FgMagenta).Add(color.Bold)
 )
 
 func header1() {
