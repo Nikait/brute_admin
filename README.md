@@ -6,7 +6,7 @@ https / http protocol digit.
 
 To run this program, you must have golang installed
 and also a library for colours.
-It is install by the team
+It is install by the command:
 go get github.com/fatih/color
 
 You can also run the script 
