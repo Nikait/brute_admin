@@ -10,7 +10,8 @@ It is install by the team
 go get github.com/fatih/color
 
 You can also run the script 
-much faster with the command:
+much faster with the commands:
+chmod +x brute_admin
 ./brute_admin
 (this is for Linux)
 
